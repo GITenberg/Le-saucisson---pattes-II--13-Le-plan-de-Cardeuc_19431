@@ -1,0 +1,31 @@
+_repo: Le-saucisson---pattes-II--13-Le-plan-de-Cardeuc_19431
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chavette, Eugène
+    aliases:
+    - Chavette, Eugene
+    - Vachette, Eugène
+    birthdate: 1827
+    deathdate: 1902
+    gutenberg_agent_id: '6936'
+    url: http://www.gutenberg.org/2009/agents/6936
+    wikipedia: http://fr.wikipedia.org/wiki/Eug%C3%A8ne_Chavette
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19431'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: "Le saucisson à pattes II\r\nLe plan de Cardeuc"
+url: http://www.gutenberg.org/ebooks/19431
